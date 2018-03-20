@@ -1,0 +1,12 @@
+com\zcbl\compent\task\client\global\bean\Transport.class
+com\zcbl\compent\task\client\channel\api\Channel.class
+com\zcbl\compent\task\client\annation\GlobalCompent.class
+com\zcbl\compent\task\client\ansyis\api\Anysis.class
+com\zcbl\compent\task\client\global\bean\Global.class
+com\zcbl\compent\task\client\global\api\GlobalConfig.class
+com\zcbl\compent\task\client\annation\RemoterCompent.class
+com\zcbl\compent\task\client\remoter\Remoter.class
+com\zcbl\compent\task\client\task\api\Task.class
+com\zcbl\compent\task\client\annation\TaskCompent.class
+com\zcbl\compent\task\client\task\api\TaskResolver.class
+com\zcbl\compent\task\client\annation\AnysisCompent.class

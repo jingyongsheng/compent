@@ -1,0 +1,17 @@
+com\zcbl\compent\client\global\GlobalImpl.class
+com\zcbl\compent\client\remoter\memory\MemoryImpl.class
+com\zcbl\compent\client\ansyis\center\DataCenterImpl.class
+com\zcbl\compent\client\ansyis\compent\CompentImpl.class
+com\zcbl\compent\client\ansyis\db\DbAnsyis.class
+com\zcbl\compent\client\remoter\db\DbImpl.class
+com\zcbl\compent\client\ansyis\function\FunctionAnsyisImpl.class
+com\zcbl\compent\client\ansyis\object\ObjectAnsyisImpl.class
+com\zcbl\compent\client\ansyis\restful\ResultfulResolver.class
+com\zcbl\compent\client\remoter\rpc\RpcImpl.class
+com\zcbl\compent\client\ansyis\dbobj\DbObjectAnsyisImpl.class
+com\zcbl\compent\client\ansyis\timer\TimerAnsyisImpl.class
+com\zcbl\compent\client\remoter\http\HttpImpl.class
+com\zcbl\compent\client\task\TaskLoadImpl.class
+com\zcbl\compent\client\ansyis\restful\RestfulAnsyisImpl.class
+com\zcbl\compent\client\ansyis\timer\TimerResolver.class
+com\zcbl\compent\client\remoter\RemoterImpl.class

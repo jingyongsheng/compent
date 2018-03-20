@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: compent-data-center-client
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Administrator
+Specification-Title: compent-data-center-client
+Implementation-Vendor-Id: com.zcbl
+Build-Jdk: 1.8.0_92
+Specification-Version: 0.0.1-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,13 @@
+<zc-compent>
+	<compent>
+		<unique>mushpay</unique>
+		<compent_type>register</compent_type>
+		<server>192.168.1.89:4180</server>
+		<port>6798</port>
+		<ip>192.168.1.186</ip>
+		<!-- http,rpc,db,memory -->
+		<transport>rpc</transport>
+		<card>mushpay</card>
+		<app>mushpay</app>
+	</compent>
+</zc-compent>

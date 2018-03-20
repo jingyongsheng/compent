@@ -1,0 +1,42 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.zcbl</groupId>
+		<artifactId>compent-master</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+	<artifactId>compent-client</artifactId>
+	<name>${project.artifactId}</name>
+	<packaging>pom</packaging>
+	<modules>
+		<module>compent-client-api</module>
+		<module>compent-client-core</module>
+		<module>compent-client-restful</module>
+		<module>compent-client-quartz</module>
+		<module>compent-client-lang</module>
+		<module>compent-client-impl</module>
+	</modules>
+	<dependencies>
+		<dependency>
+			<groupId>com.zcbl</groupId>
+			<artifactId>compent-api</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>com.zcbl</groupId>
+			<artifactId>compent-config</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>com.zcbl</groupId>
+			<artifactId>compent-data-center-client</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>com.zcbl</groupId>
+			<artifactId>compent-db-client</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+	</dependencies>
+</project>

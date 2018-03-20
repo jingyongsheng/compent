@@ -1,0 +1,5 @@
+com\zcbl\compent\data\center\api\bean\Type.class
+com\zcbl\compent\data\center\DataCenter.class
+com\zcbl\compent\data\center\api\Center.class
+com\zcbl\compent\data\center\api\bean\Query.class
+com\zcbl\compent\data\center\api\bean\Result.class

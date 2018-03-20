@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: compent-client-quartz
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Administrator
+Specification-Title: compent-client-quartz
+Implementation-Vendor-Id: com.zcbl
+Build-Jdk: 1.8.0_92
+Specification-Version: 0.0.1-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+

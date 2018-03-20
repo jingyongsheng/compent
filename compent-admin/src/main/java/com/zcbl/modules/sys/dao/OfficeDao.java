@@ -1,0 +1,15 @@
+package com.zcbl.modules.sys.dao;
+
+import com.zcbl.common.persistence.TreeDao;
+import com.zcbl.common.persistence.annotation.MyBatisDao;
+import com.zcbl.modules.sys.entity.Office;
+
+/**
+ * 机构DAO接口
+
+ * @version 2014-05-16
+ */
+@MyBatisDao
+public interface OfficeDao extends TreeDao<Office> {
+	
+}
